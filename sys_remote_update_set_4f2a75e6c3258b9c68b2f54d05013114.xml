@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2026-06-21 06:05:06">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Contract.view.download.notification.15june.Vaishali.Singh2</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>58d844b0c3294b1c68b2f54d05013121</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>4f2a75e6c3258b9c68b2f54d05013114</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_ast_contract_null</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="" table="ast_contract"><active>true</active><array>false</array><attributes>all_tables.text_index_translations=true,use_document_viewer=true</attributes><audit>false</audit><calculation/><choice>1</choice><choice_field/><choice_table/><column_label/><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element/><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Collection">collection</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>ast_contract</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2025-10-24 19:37:19</sys_created_on><sys_id>098674a1bcb432108bb2f58e8d11a1ae</sys_id><sys_name>ast_contract</sys_name><sys_package display_value="Contract Management" source="com.snc.contract_management">f88634a1bcb432108bb2f58e8d11a1c9</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_ast_contract_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-16 07:51:41</sys_updated_on><table_reference>false</table_reference><text_index>true</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-697749402</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>032a75e6c3258b9c68b2f54d05013118</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecf6a2f9c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>ast_contract</table>
+<target_name>Contract</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>64a2284d82658f1c404974371104f756</update_guid>
+<update_guid_history>64a2284d82658f1c404974371104f756:-697749402,5ca2e44d8b658f1ce782f0a20d072fe9:179658549</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_2a4c1001c3258f1c68b2f54d050131ca</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="2a4c1001c3258f1c68b2f54d050131ca" sys_domain="global" table="u_contract_document_log" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>u_contract</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-16 07:29:02</sys_created_on><sys_id>587d5445c3258f1c68b2f54d0501311a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_contract_document_log" sys_domain="global" view="Default view">2a4c1001c3258f1c68b2f54d050131ca</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-16 07:29:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_attachment</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-16 07:29:03</sys_created_on><sys_id>2c7d5445c3258f1c68b2f54d05013128</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_contract_document_log" sys_domain="global" view="Default view">2a4c1001c3258f1c68b2f54d050131ca</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-16 07:29:03</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_action</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-16 07:29:03</sys_created_on><sys_id>a87d5445c3258f1c68b2f54d05013129</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_contract_document_log" sys_domain="global" view="Default view">2a4c1001c3258f1c68b2f54d050131ca</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-16 07:29:03</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_user</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-16 07:29:03</sys_created_on><sys_id>287d5445c3258f1c68b2f54d0501312a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_contract_document_log" sys_domain="global" view="Default view">2a4c1001c3258f1c68b2f54d050131ca</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-16 07:29:03</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_date_time</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-16 07:29:03</sys_created_on><sys_id>a47d5445c3258f1c68b2f54d0501312b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_contract_document_log" sys_domain="global" view="Default view">2a4c1001c3258f1c68b2f54d050131ca</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-16 07:29:03</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>u_contract_document_log</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-16 07:24:00</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2a4c1001c3258f1c68b2f54d050131ca</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_contract_document_log</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_2a4c1001c3258f1c68b2f54d050131ca</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-16 07:24:00</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>2111253877</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>032ab12ac3258b9c68b2f54d05013101</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecf556f5d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>u_contract_document_log</table>
+<target_name>Contract document log</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>6c7d544504258f1c1c750eff5b85452e</update_guid>
+<update_guid_history>6c7d544504258f1c1c750eff5b85452e:2111253877,ea4c50017c258f1c5d8677d2358ddeb0:2110412846</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_02490c34c3294b1c68b2f54d05013144</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description>Default access control on u_contract_document_log</description><local_or_existing>Existing</local_or_existing><name>u_contract_document_log</name><operation display_value="read">read</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-15 11:22:28</sys_created_on><sys_id>02490c34c3294b1c68b2f54d05013144</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_contract_document_log</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_security_acl_02490c34c3294b1c68b2f54d05013144</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-15 11:22:28</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1366519018</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>072a712ac3258b9c68b2f54d050131fd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecb04c6b80000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>u_contract_document_log</table>
+<target_name>u_contract_document_log</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>06490c346d294b1c56d73c3dbc28355c</update_guid>
+<update_guid_history>06490c346d294b1c56d73c3dbc28355c:1366519018</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sysevent_email_action_389b6085c3298f1c68b2f54d0501314a</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sysevent_email_action"&gt;&lt;sysevent_email_action action="INSERT_OR_UPDATE"&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;advanced_condition/&gt;&lt;affected_field_on_event/&gt;&lt;category display_value="Uncategorized" name="Uncategorized"&gt;c97d83137f4432005f58108c3ffa917a&lt;/category&gt;&lt;collection&gt;ast_contract&lt;/collection&gt;&lt;condition/&gt;&lt;content_type&gt;text/html&lt;/content_type&gt;&lt;default_digest&gt;false&lt;/default_digest&gt;&lt;default_interval/&gt;&lt;description/&gt;&lt;digest_from/&gt;&lt;digest_html/&gt;&lt;digest_reply_to/&gt;&lt;digest_separator_html&gt;&lt;![CDATA[&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;]]&gt;&lt;/digest_separator_html&gt;&lt;digest_separator_text&gt;&lt;![CDATA[\n--------------------------------------------------------------------------------\n]]&gt;&lt;/digest_separator_text&gt;&lt;digest_subject/&gt;&lt;digest_template/&gt;&lt;digest_text/&gt;&lt;digest_type&gt;single&lt;/digest_type&gt;&lt;digestable&gt;false&lt;/digestable&gt;&lt;enable_dynamic_translation&gt;false&lt;/enable_dynamic_translation&gt;&lt;event_name&gt;contract.document.viewed&lt;/event_name&gt;&lt;event_parm_1&gt;false&lt;/event_parm_1&gt;&lt;event_parm_2&gt;false&lt;/event_parm_2&gt;&lt;exclude_delegates&gt;false&lt;/exclude_delegates&gt;&lt;force_delivery&gt;false&lt;/force_delivery&gt;&lt;from/&gt;&lt;generation_type&gt;event&lt;/generation_type&gt;&lt;importance/&gt;&lt;include_attachments&gt;false&lt;/include_attachments&gt;&lt;item&gt;event.parm1&lt;/item&gt;&lt;item_table/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;message/&gt;&lt;message_html&gt;&lt;![CDATA[&lt;p&gt;hey team ,&amp;nbsp;&lt;br&gt;&lt;br&gt;this following details someone download contract document please review&amp;nbsp;&lt;br&gt;&lt;br&gt;Contract: ${number}&lt;br&gt;Viewed By: ${event.parm1}&lt;br&gt;Document: ${event.parm2}&lt;br&gt;Date: ${sys_updated_on}&lt;/p&gt;]]&gt;&lt;/message_html&gt;&lt;message_list/&gt;&lt;message_text/&gt;&lt;name&gt;Contract docs view &lt;/name&gt;&lt;omit_watermark&gt;false&lt;/omit_watermark&gt;&lt;order&gt;100&lt;/order&gt;&lt;push_message_only&gt;false&lt;/push_message_only&gt;&lt;recipient_fields/&gt;&lt;recipient_groups name="Contract Specialists"&gt;b32f02370ba13300eb138e6eb4673aa1&lt;/recipient_groups&gt;&lt;recipient_users&gt;6816f79cc0a8016401c5a33be04be441,62826bf03710200044e0bfc8bcbe5df1&lt;/recipient_users&gt;&lt;reply_to/&gt;&lt;send_self&gt;true&lt;/send_self&gt;&lt;sms_alternate/&gt;&lt;style/&gt;&lt;subject&gt;Someone see the contract document please review&lt;/subject&gt;&lt;subscribable&gt;false&lt;/subscribable&gt;&lt;sys_class_name&gt;sysevent_email_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-06-16 08:31:50&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;389b6085c3298f1c68b2f54d0501314a&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;Contract docs view &lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_email_action_389b6085c3298f1c68b2f54d0501314a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-06-17 08:47:44&lt;/sys_updated_on&gt;&lt;sys_version&gt;2&lt;/sys_version&gt;&lt;template display_value="Unsubscribe and Preferences"&gt;7ed0481f3b0b2200c869c2c703efc487&lt;/template&gt;&lt;type&gt;email&lt;/type&gt;&lt;weight&gt;0&lt;/weight&gt;&lt;/sysevent_email_action&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1274537333</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>072a75e6c3258b9c68b2f54d05013115</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ed4c3d5c00000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>ast_contract</table>
+<target_name>Contract docs view </target_name>
+<type>Notification</type>
+<update_domain>global</update_domain>
+<update_guid>7a097d558125075c6386d0960e328510</update_guid>
+<update_guid_history>7a097d558125075c6386d0960e328510:-1274537333,e81ee041cd698f1cf2058be86b564962:-1263027348,107dac05d8298f1c6f73442bc3442ccb:-408896296,7f9ce4c1cb298f1ca422a3ed8900eb2a:1967625849,af3ca485da298f1cea0dfa1e3e0bd880:1133619115,94db60c513298f1ca9eccbd702471ed4:-419197352</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_contract_document_log_u_contract</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_contract" table="u_contract_document_log"><active>true</active><array>false</array><attributes>encode_utf8=false</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Contract</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_contract</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Reference">reference</internal_type><mandatory>false</mandatory><max_length>32</max_length><name>u_contract_document_log</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference display_value="" name="ast_contract">ast_contract</reference><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-16 07:29:00</sys_created_on><sys_id>b36dd045c3258f1c68b2f54d050131fb</sys_id><sys_name>Contract</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_contract_document_log_u_contract</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-16 07:29:00</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>510958273</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>072a75e6c3258b9c68b2f54d05013119</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecf556c7c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>u_contract_document_log</table>
+<target_name>Contract document log.Contract</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>947d144570258f1c883c0dfc056b8fa3</update_guid>
+<update_guid_history>947d144570258f1c883c0dfc056b8fa3:510958273</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_0e490c34c3294b1c68b2f54d050131db</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-15 11:22:28</sys_created_on><sys_id>0e490c34c3294b1c68b2f54d050131db</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_contract_document_log.u_contract_document_log_user</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_security_acl display_value="u_contract_document_log">8a490c34c3294b1c68b2f54d050131c1</sys_security_acl><sys_update_name>sys_security_acl_role_0e490c34c3294b1c68b2f54d050131db</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-15 11:22:28</sys_updated_on><sys_user_role display_value="u_contract_document_log_user" name="u_contract_document_log_user">55498834c3294b1c68b2f54d050131f9</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>506221395</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>0b2a712ac3258b9c68b2f54d050131fe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecb04c87d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>u_contract_document_log</table>
+<target_name>u_contract_document_log.u_contract_document_log_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>0a490c34ad294b1c9cd68e7657a548e5</update_guid>
+<update_guid_history>0a490c34ad294b1c9cd68e7657a548e5:506221395</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_contract_document_log_u_attachment_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_attachment" label="Attachment" language="en" table="u_contract_document_log"><sys_documentation action="INSERT_OR_UPDATE"><element>u_attachment</element><help/><hint/><label>Attachment</label><language>en</language><name>u_contract_document_log</name><plural>Attachments</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-16 07:29:00</sys_created_on><sys_id>7b6dd045c3258f1c68b2f54d050131f8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Attachment</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_u_contract_document_log_u_attachment_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-16 07:29:00</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>296027467</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>0b2a75e6c3258b9c68b2f54d0501311a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecf556d970000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>u_contract_document_log</table>
+<target_name>Contract document log.Attachment</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>547d5445f6258f1c8558bab883bca310</update_guid>
+<update_guid_history>547d5445f6258f1c8558bab883bca310:296027467</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_action_3c1b1089c3e18f1c68b2f54d05013139</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_action"&gt;&lt;sys_ui_action action="INSERT_OR_UPDATE"&gt;&lt;action_name/&gt;&lt;active&gt;true&lt;/active&gt;&lt;client&gt;false&lt;/client&gt;&lt;client_script_v2&gt;&lt;![CDATA[function onClick(g_form) {
+
+}]]&gt;&lt;/client_script_v2&gt;&lt;comments/&gt;&lt;condition/&gt;&lt;form_action&gt;true&lt;/form_action&gt;&lt;form_button&gt;true&lt;/form_button&gt;&lt;form_button_v2&gt;false&lt;/form_button_v2&gt;&lt;form_context_menu&gt;false&lt;/form_context_menu&gt;&lt;form_link&gt;false&lt;/form_link&gt;&lt;form_menu_button_v2&gt;false&lt;/form_menu_button_v2&gt;&lt;form_style/&gt;&lt;format_for_configurable_workspace&gt;false&lt;/format_for_configurable_workspace&gt;&lt;hint/&gt;&lt;isolate_script&gt;false&lt;/isolate_script&gt;&lt;list_action&gt;false&lt;/list_action&gt;&lt;list_banner_button&gt;false&lt;/list_banner_button&gt;&lt;list_button&gt;false&lt;/list_button&gt;&lt;list_choice&gt;false&lt;/list_choice&gt;&lt;list_context_menu&gt;false&lt;/list_context_menu&gt;&lt;list_link&gt;false&lt;/list_link&gt;&lt;list_save_with_form_button&gt;false&lt;/list_save_with_form_button&gt;&lt;list_style/&gt;&lt;messages/&gt;&lt;name&gt;View Document&lt;/name&gt;&lt;onclick/&gt;&lt;order&gt;100&lt;/order&gt;&lt;script&gt;&lt;![CDATA[var attachmentGR = new GlideRecord('sys_attachment');
+attachmentGR.addQuery('table_sys_id', current.sys_id);
+attachmentGR.orderByDesc('sys_created_on');
+attachmentGR.setLimit(1);
+attachmentGR.query();
+
+if (attachmentGR.next()) {
+
+    // Audit record
+    var audit = new GlideRecord('u_contract_document_log');
+    audit.initialize();
+    audit.u_contract = current.sys_id;
+    audit.u_attachment = attachmentGR.sys_id;
+    audit.u_user = gs.getUserID();
+    audit.u_action = 'Viewed';
+    audit.insert();
+
+    // Notify manager
+    gs.eventQueue(
+        'contract.document.viewed',
+        current,
+        gs.getUserDisplayName(),
+        attachmentGR.file_name
+    );
+
+    action.setRedirectURL(
+        '/sys_attachment.do?sys_id=' + attachmentGR.sys_id + '&amp;view=true'
+    );
+}]]&gt;&lt;/script&gt;&lt;show_insert&gt;true&lt;/show_insert&gt;&lt;show_multiple_update&gt;false&lt;/show_multiple_update&gt;&lt;show_query&gt;false&lt;/show_query&gt;&lt;show_update&gt;true&lt;/show_update&gt;&lt;sys_class_name&gt;sys_ui_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-06-16 07:19:48&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;3c1b1089c3e18f1c68b2f54d05013139&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;View Document&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_action_3c1b1089c3e18f1c68b2f54d05013139&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-06-16 08:28:06&lt;/sys_updated_on&gt;&lt;table&gt;ast_contract&lt;/table&gt;&lt;ui11_compatible&gt;true&lt;/ui11_compatible&gt;&lt;ui16_compatible&gt;false&lt;/ui16_compatible&gt;&lt;/sys_ui_action&gt;&lt;sys_es_latest_script action="INSERT_OR_UPDATE"&gt;&lt;id&gt;3c1b1089c3e18f1c68b2f54d05013139&lt;/id&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-06-16 07:19:47&lt;/sys_created_on&gt;&lt;sys_id&gt;7c5b10c9c3e18f1c68b2f54d050131df&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-06-16 07:19:47&lt;/sys_updated_on&gt;&lt;table&gt;sys_ui_action&lt;/table&gt;&lt;use_es_latest&gt;true&lt;/use_es_latest&gt;&lt;/sys_es_latest_script&gt;&lt;/record_update&gt;</payload>
+<payload_hash>448643995</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>0f2a712ac3258b9c68b2f54d050131ff</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecf8b810b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>ast_contract</table>
+<target_name>View Document</target_name>
+<type>UI Action</type>
+<update_domain>global</update_domain>
+<update_guid>a1faa881d6298f1c011d5552795e424c</update_guid>
+<update_guid_history>a1faa881d6298f1c011d5552795e424c:448643995,815bd0c97ce18f1c5e46c47cf5f161bd:4871974</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sysevent_register_8a2b6005c3298f1c68b2f54d0501316b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register"><sysevent_register action="INSERT_OR_UPDATE"><caller_access/><derived_priority>100</derived_priority><description/><event_name>contract.document.viewed</event_name><fired_by/><priority>100</priority><queue/><suffix/><sys_class_name>sysevent_register</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-16 08:29:20</sys_created_on><sys_id>8a2b6005c3298f1c68b2f54d0501316b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>contract.document.viewed</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sysevent_register_8a2b6005c3298f1c68b2f54d0501316b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-16 08:29:20</sys_updated_on><table>ast_contract</table></sysevent_register></record_update>]]></payload>
+<payload_hash>506045471</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>0f2a75e6c3258b9c68b2f54d05013116</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecf8ca0f10000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>ast_contract</table>
+<target_name>contract.document.viewed</target_name>
+<type>Event Registration</type>
+<update_domain>global</update_domain>
+<update_guid>273be40517298f1c87ceff8751f3d52d</update_guid>
+<update_guid_history>273be40517298f1c87ceff8751f3d52d:506045471</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_contract_document_log__en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="" label="Contract document log" language="en" table="u_contract_document_log"><sys_documentation action="INSERT_OR_UPDATE"><element/><help/><hint/><label>Contract document log</label><language>en</language><name>u_contract_document_log</name><plural>Contract document logs</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-15 11:22:29</sys_created_on><sys_id>92494c34c3294b1c68b2f54d0501313f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Contract document log</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_u_contract_document_log__en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-15 11:22:29</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>746323299</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>0f2a75e6c3258b9c68b2f54d0501311b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecb04d23c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>u_contract_document_log</table>
+<target_name>Contract document log</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>3e494c34f5294b1ce9ccbec6ac6ed3e2</update_guid>
+<update_guid_history>3e494c34f5294b1ce9ccbec6ac6ed3e2:746323299</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_6949c834c3294b1c68b2f54d05013133</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>Contract document log</name><order>100</order><roles>u_contract_document_log_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-15 11:22:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6949c834c3294b1c68b2f54d05013133</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Contract document log</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_app_application_6949c834c3294b1c68b2f54d05013133</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-15 11:22:27</sys_updated_on><title>Contract document log</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>-1338647391</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>432a75e6c3258b9c68b2f54d05013117</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecb04c2ba0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table/>
+<target_name>Contract document log</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>f949c8341e294b1c525d288fda045e77</update_guid>
+<update_guid_history>f949c8341e294b1c525d288fda045e77:-1338647391</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_38bf5401c3658f1c68b2f54d0501313e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description/><ignore_cache>true</ignore_cache><is_private>false</is_private><name>com.snc.documentviewer.enable_document_viewer</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-16 07:39:11</sys_created_on><sys_id>38bf5401c3658f1c68b2f54d0501313e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>com.snc.documentviewer.enable_document_viewer</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_38bf5401c3658f1c68b2f54d0501313e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-16 07:39:37</sys_updated_on><type>boolean</type><value>true</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=38bf5401c3658f1c68b2f54d0501313e"/></record_update>]]></payload>
+<payload_hash>-668447248</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>432a75e6c3258b9c68b2f54d0501311c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecf5f1f3f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table/>
+<target_name>com.snc.documentviewer.enable_document_viewer</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_guid>6fdf504183658f1caae94217e710e4e8</update_guid>
+<update_guid_history>6fdf504183658f1caae94217e710e4e8:-668447248,d5cf94018b658f1ccaaa3a845dde39b7:-647893835</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_action_9067a5d5c3edc35c68b2f54d05013167</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_action"&gt;&lt;sys_ui_action action="INSERT_OR_UPDATE"&gt;&lt;action_name/&gt;&lt;active&gt;true&lt;/active&gt;&lt;client&gt;false&lt;/client&gt;&lt;client_script_v2&gt;&lt;![CDATA[function onClick(g_form) {
+
+}]]&gt;&lt;/client_script_v2&gt;&lt;comments/&gt;&lt;condition/&gt;&lt;form_action&gt;true&lt;/form_action&gt;&lt;form_button&gt;true&lt;/form_button&gt;&lt;form_button_v2&gt;false&lt;/form_button_v2&gt;&lt;form_context_menu&gt;false&lt;/form_context_menu&gt;&lt;form_link&gt;false&lt;/form_link&gt;&lt;form_menu_button_v2&gt;false&lt;/form_menu_button_v2&gt;&lt;form_style/&gt;&lt;format_for_configurable_workspace&gt;false&lt;/format_for_configurable_workspace&gt;&lt;hint/&gt;&lt;isolate_script&gt;false&lt;/isolate_script&gt;&lt;list_action&gt;false&lt;/list_action&gt;&lt;list_banner_button&gt;false&lt;/list_banner_button&gt;&lt;list_button&gt;false&lt;/list_button&gt;&lt;list_choice&gt;false&lt;/list_choice&gt;&lt;list_context_menu&gt;false&lt;/list_context_menu&gt;&lt;list_link&gt;false&lt;/list_link&gt;&lt;list_save_with_form_button&gt;false&lt;/list_save_with_form_button&gt;&lt;list_style/&gt;&lt;messages/&gt;&lt;name&gt;Download Document&lt;/name&gt;&lt;onclick/&gt;&lt;order&gt;100&lt;/order&gt;&lt;script&gt;&lt;![CDATA[var attachmentGR = new GlideRecord('sys_attachment');
+attachmentGR.addQuery('table_sys_id', current.sys_id);
+attachmentGR.orderByDesc('sys_created_on');
+attachmentGR.setLimit(1);
+attachmentGR.query();
+
+if (attachmentGR.next()) {
+
+    var audit = new GlideRecord('u_contract_document_log');
+    audit.initialize();
+    audit.u_contract = current.sys_id;
+    audit.u_attachment = attachmentGR.sys_id;
+    audit.u_user = gs.getUserID();
+    audit.u_action = 'Downloaded';
+    audit.insert();
+
+    gs.eventQueue(
+        'contract.document.downloaded',
+        current,
+        gs.getUserDisplayName(),
+        attachmentGR.file_name
+    );
+
+    action.setRedirectURL('/sys_attachment.do?sys_id=' + attachmentGR.sys_id);
+}]]&gt;&lt;/script&gt;&lt;show_insert&gt;true&lt;/show_insert&gt;&lt;show_multiple_update&gt;false&lt;/show_multiple_update&gt;&lt;show_query&gt;false&lt;/show_query&gt;&lt;show_update&gt;true&lt;/show_update&gt;&lt;sys_class_name&gt;sys_ui_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-06-17 07:31:38&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;9067a5d5c3edc35c68b2f54d05013167&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Download Document&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_action_9067a5d5c3edc35c68b2f54d05013167&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-06-17 08:45:11&lt;/sys_updated_on&gt;&lt;table&gt;ast_contract&lt;/table&gt;&lt;ui11_compatible&gt;true&lt;/ui11_compatible&gt;&lt;ui16_compatible&gt;false&lt;/ui16_compatible&gt;&lt;/sys_ui_action&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1372567575</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>432ab12ac3258b9c68b2f54d05013100</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ed4c1807b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>ast_contract</table>
+<target_name>Download Document</target_name>
+<type>UI Action</type>
+<update_domain>global</update_domain>
+<update_guid>a1787dd17d25075cf08e2365833b4773</update_guid>
+<update_guid_history>a1787dd17d25075cf08e2365833b4773:1372567575,8ca7ad191bedc35cc45f233431ef3322:433276330</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_client_83890611c369075c68b2f54d050131d7</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;state&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;false&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;color change bg closed&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[// function onChange(control, oldValue, newValue, isLoading) {
+//     if (isLoading)
+//         return;
+
+//     if (newValue == '7') { // Replace 7 with your Closed state value
+//         var stateCtrl = g_form.getControl('state');
+//         if (stateCtrl) {
+//             stateCtrl.style.backgroundColor = '#fff3cd';
+//             stateCtrl.style.color = '#d63384';
+//             stateCtrl.style.fontWeight = 'bold';
+//         }
+//     } else {
+//         var stateCtrl = g_form.getControl('state');
+//         if (stateCtrl) {
+//             stateCtrl.style.backgroundColor = '';
+//             stateCtrl.style.color = '';
+//             stateCtrl.style.fontWeight = '';
+//         }
+//     }
+// }
+
+
+// function onLoad() {
+
+//     if (g_form.getValue('state') != '7') // Closed state value
+//         return;
+
+//     setTimeout(function() {
+
+//         var readonlyFields = document.querySelectorAll(
+//             'input[readonly], textarea[readonly], select[disabled]'
+//         );
+
+//         readonlyFields.forEach(function(field) {
+//             field.style.backgroundColor = 'yellow';
+//             field.style.color = 'red';
+//             field.style.fontWeight = 'bold';
+//         });
+
+//     }, 1000);
+// }
+
+
+
+function onLoad() {
+
+    if (g_form.getValue('state') != '7')
+        return;
+
+    setTimeout(function() {
+
+        var elements = document.querySelectorAll(
+            '.form-control[readonly], .form-control[disabled], input[readonly], textarea[readonly]'
+        );
+
+        elements.forEach(function(el) {
+            el.style.setProperty('background-color', 'yellow', 'important');
+            el.style.setProperty('color', 'red', 'important');
+            el.style.setProperty('font-weight', 'bold', 'important');
+        });
+
+    }, 2000);
+
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-06-17 10:00:56&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;83890611c369075c68b2f54d050131d7&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;color change bg closed&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_83890611c369075c68b2f54d050131d7&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-06-17 10:10:43&lt;/sys_updated_on&gt;&lt;table&gt;incident&lt;/table&gt;&lt;type&gt;onLoad&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1752659119</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>472a712ac3258b9c68b2f54d050131fc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ed50fcf040000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>incident</table>
+<target_name>color change bg closed</target_name>
+<type>Client Script</type>
+<update_domain>global</update_domain>
+<update_guid>e60c869d0069075c2eceeb2b6ed66afc</update_guid>
+<update_guid_history>e60c869d0069075c2eceeb2b6ed66afc:-1752659119,9f8b821df869075ccce39875a40fb433:-2001040294,a92b42990c69075c3ee0d2a41d91ce20:1288484423,b19a4ad50569075c0bb77612095a630b:418036707,30e90e91e169075c2a23f796339c6e10:1562565961,0fc9ce514869075c8b46fff040e0ef99:-1712622116</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_contract_document_log_null</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="" table="u_contract_document_log"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element/&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Collection"&gt;collection&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;u_contract_document_log&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-06-15 11:22:28&lt;/sys_created_on&gt;&lt;sys_id&gt;0a490c34c3294b1c68b2f54d050131e7&lt;/sys_id&gt;&lt;sys_name&gt;u_contract_document_log&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_u_contract_document_log_null&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-06-15 11:22:28&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>2131981880</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>472a75e6c3258b9c68b2f54d05013118</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecb04d20d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>u_contract_document_log</table>
+<target_name>Contract document log</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>ea494c34b7294b1c1a4481f2ce6f83c6</update_guid>
+<update_guid_history>ea494c34b7294b1c1a4481f2ce6f83c6:2131981880</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_55498834c3294b1c68b2f54d050131f9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><encryption_context/><federated_id/><grantable>true</grantable><includes_roles/><name>u_contract_document_log_user</name><scoped_admin>false</scoped_admin><suffix/><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-15 11:22:25</sys_created_on><sys_id>55498834c3294b1c68b2f54d050131f9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_contract_document_log_user</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_user_role_55498834c3294b1c68b2f54d050131f9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-15 11:22:25</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>-1271737256</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>472ab12ac3258b9c68b2f54d05013101</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecb04be8f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table/>
+<target_name>u_contract_document_log_user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>6549c83430294b1cad4b79ea2544622b</update_guid>
+<update_guid_history>6549c83430294b1cad4b79ea2544622b:-1271737256</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_86490c34c3294b1c68b2f54d05013176</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description>Default access control on u_contract_document_log</description><local_or_existing>Existing</local_or_existing><name>u_contract_document_log</name><operation display_value="write">write</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-15 11:22:28</sys_created_on><sys_id>86490c34c3294b1c68b2f54d05013176</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_contract_document_log</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_security_acl_86490c34c3294b1c68b2f54d05013176</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-15 11:22:28</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>866320366</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>4b2a712ac3258b9c68b2f54d050131fd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecb04c76d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>u_contract_document_log</table>
+<target_name>u_contract_document_log</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>0a490c34f7294b1cef89eaade2d039a7</update_guid>
+<update_guid_history>0a490c34f7294b1cef89eaade2d039a7:866320366</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_contract_document_log_u_date_time</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_date_time" table="u_contract_document_log"><active>true</active><array>false</array><attributes>edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Date Time</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_date_time</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="">glide_date_time</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_contract_document_log</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-16 07:29:00</sys_created_on><sys_id>736dd045c3258f1c68b2f54d050131e3</sys_id><sys_name>Date Time</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_contract_document_log_u_date_time</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-16 07:29:00</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>43582586</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>4b2a75e6c3258b9c68b2f54d05013119</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecf556d580000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>u_contract_document_log</table>
+<target_name>Contract document log.Date Time</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>547d144555258f1c581efb7d136bb1b3</update_guid>
+<update_guid_history>547d144555258f1c581efb7d136bb1b3:43582586</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_75490c34c3294b1c68b2f54d0501312a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-15 11:22:27</sys_created_on><sys_id>75490c34c3294b1c68b2f54d0501312a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_contract_document_log.u_contract_document_log_user</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_security_acl display_value="u_contract_document_log">bd490c34c3294b1c68b2f54d05013117</sys_security_acl><sys_update_name>sys_security_acl_role_75490c34c3294b1c68b2f54d0501312a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-15 11:22:27</sys_updated_on><sys_user_role display_value="u_contract_document_log_user" name="u_contract_document_log_user">55498834c3294b1c68b2f54d050131f9</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1426248034</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>4f2a712ac3258b9c68b2f54d050131fe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecb04c6490000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>u_contract_document_log</table>
+<target_name>u_contract_document_log.u_contract_document_log_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>ca490c34fe294b1c928aad03b7c18241</update_guid>
+<update_guid_history>ca490c34fe294b1c928aad03b7c18241:1426248034</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_contract_document_log_u_contract_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_contract" label="Contract" language="en" table="u_contract_document_log"><sys_documentation action="INSERT_OR_UPDATE"><element>u_contract</element><help/><hint/><label>Contract</label><language>en</language><name>u_contract_document_log</name><plural>Contracts</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-16 07:29:00</sys_created_on><sys_id>3b6dd045c3258f1c68b2f54d050131fe</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Contract</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_u_contract_document_log_u_contract_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-16 07:29:00</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-209773203</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>4f2a75e6c3258b9c68b2f54d0501311a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecf556d740000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>u_contract_document_log</table>
+<target_name>Contract document log.Contract</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>947d14450a258f1c92abcd585a8a55b6</update_guid>
+<update_guid_history>947d14450a258f1c92abcd585a8a55b6:-209773203</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_82490c34c3294b1c68b2f54d0501315e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-15 11:22:28</sys_created_on><sys_id>82490c34c3294b1c68b2f54d0501315e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_contract_document_log.u_contract_document_log_user</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_security_acl display_value="u_contract_document_log">02490c34c3294b1c68b2f54d05013144</sys_security_acl><sys_update_name>sys_security_acl_role_82490c34c3294b1c68b2f54d0501315e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-15 11:22:28</sys_updated_on><sys_user_role display_value="u_contract_document_log_user" name="u_contract_document_log_user">55498834c3294b1c68b2f54d050131f9</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-1488297208</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>832a712ac3258b9c68b2f54d050131ff</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecb04c7050000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>u_contract_document_log</table>
+<target_name>u_contract_document_log.u_contract_document_log_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>46490c3443294b1cde4000be6282cc74</update_guid>
+<update_guid_history>46490c3443294b1cde4000be6282cc74:-1488297208</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sysevent_email_action_fd18a1d9c3edc35c68b2f54d05013122</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sysevent_email_action"&gt;&lt;sysevent_email_action action="INSERT_OR_UPDATE"&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;advanced_condition/&gt;&lt;affected_field_on_event/&gt;&lt;category display_value="Uncategorized" name="Uncategorized"&gt;c97d83137f4432005f58108c3ffa917a&lt;/category&gt;&lt;collection&gt;ast_contract&lt;/collection&gt;&lt;condition/&gt;&lt;content_type&gt;text/html&lt;/content_type&gt;&lt;default_digest&gt;false&lt;/default_digest&gt;&lt;default_interval/&gt;&lt;description/&gt;&lt;digest_from/&gt;&lt;digest_html/&gt;&lt;digest_reply_to/&gt;&lt;digest_separator_html&gt;&lt;![CDATA[&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;]]&gt;&lt;/digest_separator_html&gt;&lt;digest_separator_text&gt;&lt;![CDATA[\n--------------------------------------------------------------------------------\n]]&gt;&lt;/digest_separator_text&gt;&lt;digest_subject/&gt;&lt;digest_template/&gt;&lt;digest_text/&gt;&lt;digest_type&gt;single&lt;/digest_type&gt;&lt;digestable&gt;false&lt;/digestable&gt;&lt;enable_dynamic_translation&gt;false&lt;/enable_dynamic_translation&gt;&lt;event_name&gt;contract.document.downloaded&lt;/event_name&gt;&lt;event_parm_1&gt;false&lt;/event_parm_1&gt;&lt;event_parm_2&gt;false&lt;/event_parm_2&gt;&lt;exclude_delegates&gt;false&lt;/exclude_delegates&gt;&lt;force_delivery&gt;false&lt;/force_delivery&gt;&lt;from/&gt;&lt;generation_type&gt;event&lt;/generation_type&gt;&lt;importance/&gt;&lt;include_attachments&gt;false&lt;/include_attachments&gt;&lt;item&gt;event.parm1&lt;/item&gt;&lt;item_table/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;message/&gt;&lt;message_html&gt;&lt;![CDATA[&lt;p&gt;hey team ,&amp;nbsp;&lt;br&gt;&lt;br&gt;this following details someone see contract document please review&amp;nbsp;&lt;br&gt;&lt;br&gt;Contract: ${number}&lt;br&gt;Viewed By: ${event.parm1}&lt;br&gt;Document: ${event.parm2}&lt;br&gt;Date: ${sys_updated_on}&lt;/p&gt;]]&gt;&lt;/message_html&gt;&lt;message_list/&gt;&lt;message_text/&gt;&lt;name&gt;Contract Docs Download&lt;/name&gt;&lt;omit_watermark&gt;false&lt;/omit_watermark&gt;&lt;order&gt;100&lt;/order&gt;&lt;push_message_only&gt;false&lt;/push_message_only&gt;&lt;recipient_fields/&gt;&lt;recipient_groups name="Contract Specialists"&gt;b32f02370ba13300eb138e6eb4673aa1&lt;/recipient_groups&gt;&lt;recipient_users&gt;6816f79cc0a8016401c5a33be04be441,62826bf03710200044e0bfc8bcbe5df1&lt;/recipient_users&gt;&lt;reply_to/&gt;&lt;send_self&gt;true&lt;/send_self&gt;&lt;sms_alternate/&gt;&lt;style/&gt;&lt;subject&gt;Someone download the contract document please review&lt;/subject&gt;&lt;subscribable&gt;false&lt;/subscribable&gt;&lt;sys_class_name&gt;sysevent_email_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-06-17 07:35:49&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;fd18a1d9c3edc35c68b2f54d05013122&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Contract Docs Download&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_email_action_fd18a1d9c3edc35c68b2f54d05013122&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-06-17 07:35:49&lt;/sys_updated_on&gt;&lt;sys_version&gt;2&lt;/sys_version&gt;&lt;template display_value="Unsubscribe and Preferences"&gt;7ed0481f3b0b2200c869c2c703efc487&lt;/template&gt;&lt;type&gt;email&lt;/type&gt;&lt;weight&gt;0&lt;/weight&gt;&lt;/sysevent_email_action&gt;&lt;/record_update&gt;</payload>
+<payload_hash>261415290</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>832a75e6c3258b9c68b2f54d05013116</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ed481fd920000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>ast_contract</table>
+<target_name>Contract Docs Download</target_name>
+<type>Notification</type>
+<update_domain>global</update_domain>
+<update_guid>9198e15dcbedc35c91c8c90db49662a3</update_guid>
+<update_guid_history>9198e15dcbedc35c91c8c90db49662a3:261415290</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_contract_document_log_u_date_time_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_date_time" label="Date Time" language="en" table="u_contract_document_log"><sys_documentation action="INSERT_OR_UPDATE"><element>u_date_time</element><help/><hint/><label>Date Time</label><language>en</language><name>u_contract_document_log</name><plural>Date Times</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-16 07:29:00</sys_created_on><sys_id>3f6dd045c3258f1c68b2f54d050131f2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Date Time</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_u_contract_document_log_u_date_time_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-16 07:29:00</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-562968099</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>832a75e6c3258b9c68b2f54d0501311b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecf556df60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>u_contract_document_log</table>
+<target_name>Contract document log.Date Time</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>dc7d5445b3258f1cf4e4bb350d654918</update_guid>
+<update_guid_history>dc7d5445b3258f1cf4e4bb350d654918:-562968099</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_bd49c834c3294b1c68b2f54d05013179</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Contract document log">6949c834c3294b1c68b2f54d05013133</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Contract document logs</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>u_contract_document_log</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>u_contract_document_log_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-15 11:22:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>bd49c834c3294b1c68b2f54d05013179</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Contract document logs</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_app_module_bd49c834c3294b1c68b2f54d05013179</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-15 11:22:27</sys_updated_on><timeline_page/><title>Contract document logs</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>354752850</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>872a75e6c3258b9c68b2f54d05013117</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecb04c32b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>u_contract_document_log</table>
+<target_name>Contract document logs</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>f149c834f0294b1c5b672f3d673f4afc</update_guid>
+<update_guid_history>f149c834f0294b1c5b672f3d673f4afc:354752850</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_application_7949c834c3294b1c68b2f54d050131fe</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>Contract document log</name><order/><roles>u_contract_document_log_user</roles><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-15 11:22:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7949c834c3294b1c68b2f54d050131fe</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Contract document log</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_application_7949c834c3294b1c68b2f54d050131fe</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-15 11:22:27</sys_updated_on></sys_ui_application></record_update>]]></payload>
+<payload_hash>-786456194</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>872ab12ac3258b9c68b2f54d05013100</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecb04c3890000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table/>
+<target_name>Contract document log</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>75490c3437294b1c4cff987fa5083802</update_guid>
+<update_guid_history>75490c3437294b1c4cff987fa5083802:-786456194</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_client_8c58cc52c372325068b2f54d050131fb</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;false&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field/&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;checkdetails&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onSubmit() {
+
+    var scheduleChanged =
+        g_form.getOriginalValue('schedule_time') != g_form.getValue('schedule_time');
+
+    var shortDescChanged =
+        g_form.getOriginalValue('short_description') != g_form.getValue('short_description');
+
+    if (scheduleChanged &amp;&amp; !shortDescChanged) {
+        g_form.addErrorMessage(
+            'Update Short Description when Schedule Time is modified.'
+        );
+        return false;
+    }
+
+    return true;
+}
+]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-02-03 10:16:50&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;8c58cc52c372325068b2f54d050131fb&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;checkdetails&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_8c58cc52c372325068b2f54d050131fb&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-06-18 05:34:50&lt;/sys_updated_on&gt;&lt;table&gt;change_request&lt;/table&gt;&lt;type&gt;onSubmit&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-610003191</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>8b2a712ac3258b9c68b2f54d050131fc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ed93996930000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>change_request</table>
+<target_name>checkdetails</target_name>
+<type>Client Script</type>
+<update_domain>global</update_domain>
+<update_guid>0b761ae199e14b5cbda943f84baef2b5</update_guid>
+<update_guid_history>0b761ae199e14b5cbda943f84baef2b5:-610003191,9a894456c57232505e9f59f918b0b9a6:-1376886346,0ad884d24c7232509fa71bbc4863d2f3:-1280154295,e1684092547232504253a3e08abd6a65:-1403132162</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_contract_document_log_u_action</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_action" table="u_contract_document_log"><active>true</active><array>false</array><attributes>edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice>1</choice><choice_field/><choice_table/><column_label>Action</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_action</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_contract_document_log</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-16 07:28:59</sys_created_on><sys_id>e76dd045c3258f1c68b2f54d050131d8</sys_id><sys_name>Action</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_contract_document_log_u_action</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-16 07:28:59</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>676776993</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>8b2a75e6c3258b9c68b2f54d05013118</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecf556cf30000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>u_contract_document_log</table>
+<target_name>Contract document log.Action</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>147d1445d5258f1c8cfb8e1de6f1f7ab</update_guid>
+<update_guid_history>147d1445d5258f1c8cfb8e1de6f1f7ab:676776993</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_8a490c34c3294b1c68b2f54d050131c1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description>Default access control on u_contract_document_log</description><local_or_existing>Existing</local_or_existing><name>u_contract_document_log</name><operation display_value="delete">delete</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-15 11:22:28</sys_created_on><sys_id>8a490c34c3294b1c68b2f54d050131c1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_contract_document_log</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_security_acl_8a490c34c3294b1c68b2f54d050131c1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-15 11:22:28</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-654406144</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>8f2a712ac3258b9c68b2f54d050131fd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecb04c82e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>u_contract_document_log</table>
+<target_name>u_contract_document_log</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>c6490c3447294b1cd62b7242f5b9fbcd</update_guid>
+<update_guid_history>c6490c3447294b1cd62b7242f5b9fbcd:-654406144</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_contract_document_log_u_user</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_user" table="u_contract_document_log"><active>true</active><array>false</array><attributes>encode_utf8=false</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>User</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_user</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Reference">reference</internal_type><mandatory>false</mandatory><max_length>32</max_length><name>u_contract_document_log</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference display_value="" name="sys_user">sys_user</reference><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-16 07:29:00</sys_created_on><sys_id>736d1445c3258f1c68b2f54d05013101</sys_id><sys_name>User</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_contract_document_log_u_user</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-16 07:29:00</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>1118682661</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>8f2a75e6c3258b9c68b2f54d05013119</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecf556d2a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>u_contract_document_log</table>
+<target_name>Contract document log.User</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>d47d1445d5258f1ce879629c5b3d49af</update_guid>
+<update_guid_history>d47d1445d5258f1ce879629c5b3d49af:1118682661</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_bd490c34c3294b1c68b2f54d05013117</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description>Default access control on u_contract_document_log</description><local_or_existing>Existing</local_or_existing><name>u_contract_document_log</name><operation display_value="create">create</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-15 11:22:27</sys_created_on><sys_id>bd490c34c3294b1c68b2f54d05013117</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_contract_document_log</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_security_acl_bd490c34c3294b1c68b2f54d05013117</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-15 11:22:27</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-406081122</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>c32a712ac3258b9c68b2f54d050131fe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecb04c4e50000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>u_contract_document_log</table>
+<target_name>u_contract_document_log</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>35490c347f294b1c419163e355cbc328</update_guid>
+<update_guid_history>35490c347f294b1c419163e355cbc328:-406081122</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_contract_document_log_u_action_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_action" label="Action" language="en" table="u_contract_document_log"><sys_documentation action="INSERT_OR_UPDATE"><element>u_action</element><help/><hint/><label>Action</label><language>en</language><name>u_contract_document_log</name><plural>Actions</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-16 07:29:00</sys_created_on><sys_id>3f6dd045c3258f1c68b2f54d050131df</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Action</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_u_contract_document_log_u_action_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-16 07:29:00</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-988666459</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>c32a75e6c3258b9c68b2f54d0501311a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecf556db50000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>u_contract_document_log</table>
+<target_name>Contract document log.Action</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>d07d54451d258f1c8d6fbdd475a14f13</update_guid>
+<update_guid_history>d07d54451d258f1c8d6fbdd475a14f13:-988666459</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_86490c34c3294b1c68b2f54d050131a9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-15 11:22:28</sys_created_on><sys_id>86490c34c3294b1c68b2f54d050131a9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_contract_document_log.u_contract_document_log_user</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_security_acl display_value="u_contract_document_log">86490c34c3294b1c68b2f54d05013176</sys_security_acl><sys_update_name>sys_security_acl_role_86490c34c3294b1c68b2f54d050131a9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-15 11:22:28</sys_updated_on><sys_user_role display_value="u_contract_document_log_user" name="u_contract_document_log_user">55498834c3294b1c68b2f54d050131f9</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-421719091</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>c72a712ac3258b9c68b2f54d050131ff</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecb04c7c00000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>u_contract_document_log</table>
+<target_name>u_contract_document_log.u_contract_document_log_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>4a490c34ec294b1c94512a9d2a5b04bf</update_guid>
+<update_guid_history>4a490c34ec294b1c94512a9d2a5b04bf:-421719091</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sysevent_register_13b7e559c3edc35c68b2f54d05013183</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register"><sysevent_register action="INSERT_OR_UPDATE"><caller_access/><derived_priority>100</derived_priority><description/><event_name>contract.document.downloaded</event_name><fired_by/><priority>100</priority><queue/><suffix/><sys_class_name>sysevent_register</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-17 07:32:28</sys_created_on><sys_id>13b7e559c3edc35c68b2f54d05013183</sys_id><sys_mod_count>0</sys_mod_count><sys_name>contract.document.downloaded</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sysevent_register_13b7e559c3edc35c68b2f54d05013183</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-17 07:32:28</sys_updated_on><table>ast_contract</table></sysevent_register></record_update>]]></payload>
+<payload_hash>1204415</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>c72a75e6c3258b9c68b2f54d05013116</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ed47eecc60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>ast_contract</table>
+<target_name>contract.document.downloaded</target_name>
+<type>Event Registration</type>
+<update_domain>global</update_domain>
+<update_guid>90d7695922edc35c98b11fa08911efb6</update_guid>
+<update_guid_history>90d7695922edc35c98b11fa08911efb6:1204415</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_contract_document_log_u_user_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_user" label="User" language="en" table="u_contract_document_log"><sys_documentation action="INSERT_OR_UPDATE"><element>u_user</element><help/><hint/><label>User</label><language>en</language><name>u_contract_document_log</name><plural>Users</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-16 07:29:00</sys_created_on><sys_id>776d1445c3258f1c68b2f54d05013104</sys_id><sys_mod_count>0</sys_mod_count><sys_name>User</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_u_contract_document_log_u_user_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-16 07:29:00</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>1436005563</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>c72a75e6c3258b9c68b2f54d0501311b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecf556dd30000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>u_contract_document_log</table>
+<target_name>Contract document log.User</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>507d54458d258f1c1daa32a6ec851616</update_guid>
+<update_guid_history>507d54458d258f1c1daa32a6ec851616:1436005563</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_932984b0c3614b1c68b2f54d050131de</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><filter_extension/><is_df_table>false</is_df_table><is_extendable>false</is_extendable><label>Contract document log</label><live_feed_enabled>false</live_feed_enabled><name>u_contract_document_log</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-15 11:22:26</sys_created_on><sys_id>932984b0c3614b1c68b2f54d050131de</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Contract document log</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_db_object_932984b0c3614b1c68b2f54d050131de</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-15 11:22:26</sys_updated_on><update_access>false</update_access><user_role display_value="u_contract_document_log_user" name="u_contract_document_log_user">55498834c3294b1c68b2f54d050131f9</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>-2059894150</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>cb2a75e6c3258b9c68b2f54d05013117</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecb04d2610000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>u_contract_document_log</table>
+<target_name>Contract document log</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>fa494c3449294b1cc4c5a1a17bf452e5</update_guid>
+<update_guid_history>fa494c3449294b1cc4c5a1a17bf452e5:-2059894150</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_module_75490c34c3294b1c68b2f54d05013104</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Contract document log">7949c834c3294b1c68b2f54d050131fe</application><filter/><name>Contract document logs</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>u_contract_document_log_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-15 11:22:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>75490c34c3294b1c68b2f54d05013104</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Contract document logs</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_module_75490c34c3294b1c68b2f54d05013104</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-15 11:22:27</sys_updated_on><table>u_contract_document_log</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+<payload_hash>-168201390</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>cb2ab12ac3258b9c68b2f54d05013100</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecb04c3e70000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>u_contract_document_log</table>
+<target_name>Contract document logs</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>f1490c3477294b1c7efd840f2e04db15</update_guid>
+<update_guid_history>f1490c3477294b1c7efd840f2e04db15:-168201390</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_client_f5f51845c3a18f1c68b2f54d05013194</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field/&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;link check&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onLoad() {
+
+    g_form.showFieldMsg(
+        'description',
+        'For more information, &lt;span id="google_link"&gt;&lt;/span&gt;',
+        'info'
+    );
+
+    setTimeout(function() {
+        var el = document.getElementById('google_link');
+        if (el) {
+            el.innerHTML =
+                '&lt;a href="https://www.google.com" target="_blank"&gt;Click Here&lt;/a&gt;';
+        }
+    }, 500);
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-06-16 06:57:14&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;f5f51845c3a18f1c68b2f54d05013194&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;link check&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_f5f51845c3a18f1c68b2f54d05013194&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-06-16 07:00:21&lt;/sys_updated_on&gt;&lt;table&gt;incident&lt;/table&gt;&lt;type&gt;onLoad&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-185686201</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>cf2a712ac3258b9c68b2f54d050131fc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecf3b2c7a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>incident</table>
+<target_name>link check</target_name>
+<type>Client Script</type>
+<update_domain>global</update_domain>
+<update_guid>14e61c4906a18f1cc60644645b467053</update_guid>
+<update_guid_history>14e61c4906a18f1cc60644645b467053:-185686201,dcb610495ca18f1cb62d2cbe8485cb05:399657945,ae265c45e0a18f1c1eeaa1e95edbd57b:1231471531</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_contract_document_log_u_attachment</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_attachment" table="u_contract_document_log"><active>true</active><array>false</array><attributes>edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Attachment</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_attachment</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_contract_document_log</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-16 07:29:00</sys_created_on><sys_id>776dd045c3258f1c68b2f54d050131f5</sys_id><sys_name>Attachment</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_contract_document_log_u_attachment</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-16 07:29:00</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>166614204</payload_hash>
+<remote_update_set display_value="Contract.view.download.notification.15june.Vaishali.Singh2">4f2a75e6c3258b9c68b2f54d05013114</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-21 06:05:04</sys_created_on>
+<sys_id>cf2a75e6c3258b9c68b2f54d05013118</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19ecf556cc60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-06-21 06:05:04</sys_updated_on>
+<table>u_contract_document_log</table>
+<target_name>Contract document log.Attachment</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>947d144586258f1c99c0f5d290e3cca7</update_guid>
+<update_guid_history>947d144586258f1c99c0f5d290e3cca7:166614204</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
